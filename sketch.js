@@ -8,8 +8,8 @@ const Body = Matter.Body;
 
 function preload()
 {
-	paperImg = loadImage("paper.png");
-	binImg = loadImage("bin.png");
+	paperImg = loadImage("paper.js");
+	binImg = loadImage("bin.js");
 }
 
 function setup() {
